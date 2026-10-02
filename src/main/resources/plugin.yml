@@ -1,0 +1,19 @@
+name: localhost-kaucjomat
+version: '${version}'
+
+main: pl.localhost.kaucjomat.Main
+api-version: '1.20'
+depend: [Vault]
+load: POSTWORLD
+
+authors: [ Localhost ]
+website:
+  discord: localhost_127001
+
+commands:
+  kaucjomat:
+    permission: kaucjomat.use
+  kaucjomatdaj:
+    permission: kaucjomat.give
+  kaucjomatreload:
+    permission: kaucjomat.reload
