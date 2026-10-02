@@ -123,7 +123,7 @@ This project uses Maven. To compile the plugin:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/localhost-kaucjomat.git
+git clone https://github.com/your-username/Kaucjomat-plugin-minecraft.git
 
 # Navigate to the project directory
 cd localhost-kaucjomat
